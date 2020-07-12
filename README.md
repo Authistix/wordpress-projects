@@ -2,5 +2,4 @@
 first repository
 
 Hello,
-
-I like trains and food.
+Goodbye.
