@@ -1,5 +1,2 @@
-# Hello-world
-first repository
-
-Hello,
-Goodbye.
+# wordpress repo
+wordpress kindergarten pages theme
